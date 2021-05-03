@@ -27,44 +27,57 @@ Crypto currencies
   <img width="662" alt="D1 1 3 Module 18" src="https://user-images.githubusercontent.com/75267605/116830014-7953f200-ab75-11eb-8864-71d887189ef7.png">
   
 	#### D1.1.4 Rows without coins being mined are removed 
+	
+	
+	<img width="797" alt="D1 1 4 Module 18" src="https://user-images.githubusercontent.com/75267605/116832290-74e20600-ab82-11eb-900f-95bd1cf266ac.png">
+
   
-  <img width="682" alt="D1 1 4  Module 18" src="https://user-images.githubusercontent.com/75267605/116830018-7d800f80-ab75-11eb-9ba0-bad343ad620e.png">
+ 
   
   
 	#### D1.1.5 CoinName column dropped 
+	
+	
+	<img width="807" alt="D1 1 5 Module 18 " src="https://user-images.githubusercontent.com/75267605/116832294-79a6ba00-ab82-11eb-80a5-ea21fa2bbf2e.png">
   
-  <img width="951" alt="D1 1 5 Module 18" src="https://user-images.githubusercontent.com/75267605/116830022-81139680-ab75-11eb-8035-e402428f9b07.png">
   
   
 ### D1.2 A new DataFrame is created that stores all cryptocurrency names from the CoinName column and retains the index from the crypto_df DataFrame 
 
 
-<img width="827" alt="D1 2 Module 18" src="https://user-images.githubusercontent.com/75267605/116830032-84a71d80-ab75-11eb-9c30-91c088ab8b5f.png">
+<img width="638" alt="D1 2 Module 18" src="https://user-images.githubusercontent.com/75267605/116832296-7dd2d780-ab82-11eb-9f29-07b01ffc23ba.png">
 
 
 ### D1.3 The get_dummies() method is used to create variables for the text features, which are then stored in a new DataFrame, 
 
 
-<img width="1118" alt="D1 3 Module 18" src="https://user-images.githubusercontent.com/75267605/116830038-8a046800-ab75-11eb-997a-e3ba3e0f92b9.png">
+<img width="1022" alt="D1 3 Module 18" src="https://user-images.githubusercontent.com/75267605/116832298-83302200-ab82-11eb-87ff-72942c2d913a.png">
+
+
+
 
 
 ### D1.4 The features from the X DataFrame have been standardized using the StandardScaler fit_transform() function 
 
-<img width="747" alt="D1 4 Module 18" src="https://user-images.githubusercontent.com/75267605/116830042-8f61b280-ab75-11eb-83c4-38afc353cfb6.png">
+
+<img width="670" alt="D1 4 Module 18 " src="https://user-images.githubusercontent.com/75267605/116832301-87f4d600-ab82-11eb-9316-04272c13b7e6.png">
+
 
 
 ## Deliverable 2.0 - Reducing Data Dimensions Using PCA
 
 	### D2.1 The PCA algorithm reduces the dimensions of the X DataFrame down to three principal components 
-	
-	<img width="728" alt="D2 1 Module 18" src="https://user-images.githubusercontent.com/75267605/116830431-e36d9680-ab77-11eb-9516-7ed56549ea95.png">
+	<img width="644" alt="D2 1 Module 18" src="https://user-images.githubusercontent.com/75267605/116832560-66481e80-ab83-11eb-81f6-2d2460a9fd59.png">
+
 
 
 
 	### D2.2 The pcs_df DataFrame is created and has the following three columns, PC 1, PC 2, and PC 3, and has the index from the crypto_df DataFrame 
+	<img width="752" alt="D2 2 Module 18" src="https://user-images.githubusercontent.com/75267605/116832551-5cbeb680-ab83-11eb-9c76-f689919dd747.png">
+
 	
 	
-	<img width="897" alt="D2 2 Module 18" src="https://user-images.githubusercontent.com/75267605/116830433-ea94a480-ab77-11eb-93af-2c90586fca31.png">
+	
 	
 ## Deliverable 3: Clustering Crytocurrencies Using K-Means
 
