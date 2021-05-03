@@ -19,7 +19,7 @@ We use the following methods for the analysis:
 
 
 
-**Click [here](https://github.com/josephthomas08/Cryptocurrencies/blob/main/crypto_clustering.ipynb) to crosscheck and verify  the code.**
+#### **Click [here](https://github.com/josephthomas08/Cryptocurrencies/blob/main/crypto_clustering.ipynb) to crosscheck and verify  the code.**
 
 
 
