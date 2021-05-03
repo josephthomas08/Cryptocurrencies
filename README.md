@@ -15,8 +15,8 @@ We use the following methods for the analysis:
 2. Reduce the data dimension using Principal Component Analysis,
 3. Clustering cryptocurrencies using K-Means,
 4. Visualizing classification results with 2D and 3D scatter plots.
-
-Click [here](https://github.com/josephthomas08/Cryptocurrencies/blob/main/crypto_clustering.ipynb) to crosscheck and verify  the code.
+**
+Click [here](https://github.com/josephthomas08/Cryptocurrencies/blob/main/crypto_clustering.ipynb) to crosscheck and verify  the code.**
 
 
 
