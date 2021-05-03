@@ -11,10 +11,10 @@ The project incliudes the PCA data and vissualisation through the 3D scatter. Th
 
 We use the following methods for the analysis:
 
-** 1. Preprocess the provided data 
-** 2. Reduce the data dimension using Principal Component Analysis,
-** 3. Clustering cryptocurrencies using K-Means,
-** 4. Visualizing classification results with 2D and 3D scatter plots.
+1. Preprocess the provided data 
+2. Reduce the data dimension using Principal Component Analysis,
+3. Clustering cryptocurrencies using K-Means,
+4. Visualizing classification results with 2D and 3D scatter plots.
 
 
 
