@@ -83,32 +83,77 @@ Crypto currencies
 
 ### D3.1 An elbow curve is created using hvPlot to find the best value for K 
 	
-<img width="956" alt="D3 1 Module 18" src="https://user-images.githubusercontent.com/75267605/116830608-76f39700-ab79-11eb-8403-bcdac682c815.png">
+<img width="956" alt="D3 1 Module 18" src="https://user-images.githubusercontent.com/75267605/116832895-79a7b980-ab84-11eb-8a6b-361241ad5cca.png">
+
 
 
 
 
 
 ### D3.2 Predictions are made on the K clusters of the cryptocurrencies’ data 
+
+
+<img width="744" alt="D3 2 Module 18" src="https://user-images.githubusercontent.com/75267605/116832899-7e6c6d80-ab84-11eb-90e0-26fd864b5fc6.png">
+
+
 	
 
-
-<img width="681" alt="D3 2 Module 18" src="https://user-images.githubusercontent.com/75267605/116830612-7c50e180-ab79-11eb-84bb-39167237618a.png">
 
 ### D3.3 A new DataFrame is created with the same index as the crypto_df DataFrame and has the following columns: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, PC 1, PC 2, PC 3, CoinName, and Class 
+
+
+
+<img width="809" alt="D3 3 Module 18 " src="https://user-images.githubusercontent.com/75267605/116832903-82988b00-ab84-11eb-8c08-ff3521820110.png">
 	
 	
-<img width="769" alt="D3 3 Module 18" src="https://user-images.githubusercontent.com/75267605/116830617-8246c280-ab79-11eb-9e1a-c27475cc90ad.png">
 
 ## Deliverable 4: Visualizing Cryptocurrencies Results
 
 
 
 ### D4.1 The clusters are plotted using a 3D scatter plot, and each data point shows the CoinName and Algorithm on hover 
+
+
+
+
+<img width="1015" alt="D4 1 Module 18 " src="https://user-images.githubusercontent.com/75267605/116833100-5df0e300-ab85-11eb-910b-36ee25f2055f.png">
+
+
+
+
+
 ### D4.2 A table with tradable cryptocurrencies is created using the hvplot.table() function 
+
+
+
+<img width="1021" alt="D4 2 Module 18 " src="https://user-images.githubusercontent.com/75267605/116833104-60ebd380-ab85-11eb-914c-e37e83cc764c.png">
+
+
+
+
+
 ### D4.3 The total number of tradable cryptocurrencies is printed 
-### D4.3 A DataFrame is created that contains the clustered_df DataFrame index, the scaled data, and the CoinName and Class columns (5 pt)
-### D4.3 A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point (10 pt)
+
+
+<img width="494" alt="D4 3 Module 18 " src="https://user-images.githubusercontent.com/75267605/116833107-647f5a80-ab85-11eb-8bca-d9c3d04a7e19.png">
+
+
+
+
+
+### D4.3 A DataFrame is created that contains the clustered_df DataFrame index, the scaled data, and the CoinName and Class columns 
+
+
+<img width="556" alt="D4 4 Module 18" src="https://user-images.githubusercontent.com/75267605/116833110-6812e180-ab85-11eb-9b5d-5affef50322c.png">
+
+
+
+
+### D4.3 A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point 
+
+
+<img width="1014" alt="D4 5 Module 18 " src="https://user-images.githubusercontent.com/75267605/116833113-6ba66880-ab85-11eb-8875-2db4315b7742.png">
+
 
 
 
