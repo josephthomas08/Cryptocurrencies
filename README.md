@@ -9,6 +9,13 @@ The Crypto currencies project main purpose is to analyse and visualize the crypt
 
 The project incliudes the PCA data and vissualisation through the 3D scatter. The created and cleaned data with a table of tradeable crypto currencies with a total of 532 was scaled to create the scatter plot of these tradeable cryptocurrencies. I further made a new data frame and visualized the same data through hvplot scatter.
 
+We use the following methods for the analysis:
+
+1. Preprocess the provided data 
+2. Reduce the data dimension using Principal Component Analysis,
+3. Clustering cryptocurrencies using K-Means,
+4. Visualizing classification results with 2D and 3D scatter plots.
+
 
 
 ## Resources
@@ -22,6 +29,8 @@ Data: crypto_data.csv from CryptoCompare
 
 
 # Results 
+
+Aftersubjecting data with preprocessing and cleaning phase we have a total of **532** tradable cryptocurrencies.
 
 ## Deliverable 1.0 - Preprocessing the Data for PCA
 
@@ -109,6 +118,11 @@ Data: crypto_data.csv from CryptoCompare
 
 
 
+The result from the above graph show that the  best k value appears to be 4 so we can safely  conclude on an output of 4 clusters to categorize the crytocurrencies.
+
+
+
+
 
 
 ### D3.2 Predictions are made on the K clusters of the cryptocurrencies’ data 
@@ -174,6 +188,16 @@ Data: crypto_data.csv from CryptoCompare
 
 
 <img width="1014" alt="D4 5 Module 18 " src="https://user-images.githubusercontent.com/75267605/116833113-6ba66880-ab85-11eb-8875-2db4315b7742.png">
+
+
+
+
+
+# Summary
+
+We were able to identify classification of **532** cryptocurrencies based on similarities of their features.
+We will need to further understand and  analyze features of each group  to further determine their performance and potential interest for the investment bank's clients.
+
 
 
 
