@@ -2,6 +2,27 @@
 Crypto currencies 
 
 
+
+## Project Overview
+
+The Crypto currencies project main purpose is to analyse and visualize the cryptocurrenices data for an investment portofolio and the data provided is grouped to create a classification system for this portfolio by using unspervised machine learning model. 
+
+The project incliudes the PCA data and vissualisation through the 3D scatter. The created and cleaned data with a table of tradeable crypto currencies with a total of 532 was scaled to create the scatter plot of these tradeable cryptocurrencies. I further made a new data frame and visualized the same data through hvplot scatter.
+
+
+
+## Resources
+Python 3.7 in Jupyter Notebook
+Libraries: pandas, numpy, path, counter
+scikit-learn: StandardScaler, MinMaxScaler, PCA, KMeans
+hvplot
+ploty express
+Data: crypto_data.csv from CryptoCompare
+
+
+
+# Results 
+
 ## Deliverable 1.0 - Preprocessing the Data for PCA
 
 ### D1.1.0 The following five preprocessing steps have been performed on the crypto_df DataFrame as part of Deliverable 1:
