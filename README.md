@@ -5,7 +5,7 @@ Crypto currencies
 
 ## Project Overview
 
-The Crypto currencies project main purpose is to analyse and visualize the cryptocurrenices data for an investment portofolio and the data provided is grouped to create a classification system for this portfolio by using unspervised machine learning model. 
+The Crypto currencies project main purpose is to analyse and visualize the cryptocurrenices data for an investment portofolio and the data provided is grouped to create a classification system for this portfolio by using unsupervised machine learning model. 
 
 The project incliudes the PCA data and vissualisation through the 3D scatter. The created and cleaned data with a table of tradeable crypto currencies with a total of 532 was scaled to create the scatter plot of these tradeable cryptocurrencies. I further made a new data frame and visualized the same data through hvplot scatter.
 
@@ -15,6 +15,11 @@ We use the following methods for the analysis:
 2. Reduce the data dimension using Principal Component Analysis,
 3. Clustering cryptocurrencies using K-Means,
 4. Visualizing classification results with 2D and 3D scatter plots.
+
+
+
+
+### **Click [here](https://github.com/josephthomas08/Cryptocurrencies/blob/main/crypto_clustering.ipynb) to crosscheck and verify  the code.**
 
 
 
